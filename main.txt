@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 feature1 started
 
 
 
 
 feature1 completed
+=======
+feature2 Started
+>>>>>>> feature_2
